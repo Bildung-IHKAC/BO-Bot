@@ -78,7 +78,7 @@ sources:
     accessed: 2026-08-24
   - id: bildungsportal-nrw-g9
     resource: https://www.schulministerium.nrw/presse/pressemitteilungen/abitur-2026-30000-junge-menschen-bereiten-sich-auf-die-pruefungen-vor-08
-    title: Abitur 2026: 30.000 junge Menschen bereiten sich auf die Prüfungen vor
+    title: "Abitur 2026: 30.000 junge Menschen bereiten sich auf die Prüfungen vor"
     author: Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen
     accessed: 2026-08-24
   - id: fraunhofer-potenzialanalyse-bildungslandschaft-rhein-kreis-neuss-2026
