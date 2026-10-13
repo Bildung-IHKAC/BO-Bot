@@ -49,7 +49,7 @@ sources:
     author: Bundesinstitut für Berufsbildung
   - id: ai-career-counselling-systematic-review-2026
     resource: https://doi.org/10.3389/feduc.2026.1787689
-    title: Implementation of AI in career counselling for university students: a systematic review
+    title: "Implementation of AI in career counselling for university students: a systematic review"
     author: Sarmurzin et al.
     last_modified: 2026-03-13
 generated:

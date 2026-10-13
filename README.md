@@ -20,6 +20,10 @@ Der BO Bot ist eine Wissensbasis und ein Prompt für einen **Prototypen** eines 
 Anpassungen/ Verbesserungen / Ausweitung des Wissens etc. ausdrücklich gewünscht!
 Neues Wissen gerne per Merge Request
 
+## Weitere Infos
+
+Die Präsentation vom StuBo-Kongress der IIR IHKen aus dem Rheinland vom 13.10.2026 ist ebenfalls enthalten.
+
 ## Kontakt
 
 Fragen und Anmerkungen bitte per Issue oder per Mail an ulrich.ivens@aachen.ihk.de
